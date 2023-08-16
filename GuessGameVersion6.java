@@ -10,7 +10,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Guess5 {
+public class GuessGameVersion6 {
 
     // Main method: Entry point of the program
     public static void main(String[] args) {
